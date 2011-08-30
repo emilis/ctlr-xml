@@ -1,0 +1,7 @@
+{
+    "name": "ctlr-xml",
+    "version": "1.0",
+    "description": "XML handling utilities for RingoJS.",
+    "keywords": ["XML", "SAX"],
+    "author": "Emilis Dambauskas (http://emilis.github.com/) <emilis.d@gmail.com>"
+}
