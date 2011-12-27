@@ -1,7 +1,15 @@
 {
-    "name": "ctlr-xml",
-    "version": "1.0",
-    "description": "XML handling utilities for RingoJS.",
-    "keywords": ["XML", "SAX"],
-    "author": "Emilis Dambauskas (http://emilis.github.com/) <emilis.d@gmail.com>"
+    "name":         "ctlr-xml",
+    "description":  "XML handling utilities for RingoJS.",
+    "homepage":     "https://github.com/emilis/ctlr-xml",
+    "version":      "1.0",
+    "main":         "index.js",
+    "repositories": [{
+            "type":"git",
+            "url":"git://github.com/emilis/ctlr-xml.git"
+        }],
+    "maintainers":   [
+        { "name": "Emilis Dambauskas", "email": "emilis.d@gmail.com", "web": "http://emilis.github.com/" }],
+    "licenses":     [
+        { "type": "GPLv3", "url": "http://www.gnu.org/licenses/gpl.txt" }]
 }
